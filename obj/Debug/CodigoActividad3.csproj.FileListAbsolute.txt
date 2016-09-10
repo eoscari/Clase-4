@@ -1,0 +1,12 @@
+F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\obj\Debug\CodigoActividad3.csprojResolveAssemblyReference.cache
+F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\bin\Debug\CodigoActividad3.exe.config
+F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\bin\Debug\CodigoActividad3.exe
+F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\bin\Debug\CodigoActividad3.pdb
+F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\obj\Debug\CodigoActividad3.exe
+F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\obj\Debug\CodigoActividad3.pdb
+C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\bin\Debug\CodigoActividad3.exe.config
+C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\bin\Debug\CodigoActividad3.exe
+C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\bin\Debug\CodigoActividad3.pdb
+C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\obj\Debug\CodigoActividad3.csprojResolveAssemblyReference.cache
+C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\obj\Debug\CodigoActividad3.exe
+C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\obj\Debug\CodigoActividad3.pdb
