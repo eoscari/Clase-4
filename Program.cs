@@ -19,7 +19,7 @@ namespace CodigoActividad3
 			Console.WriteLine("CLÍNICA VETERINARIA: SUPERANIMALS");
             Console.Write("Ingrese el cliente: ");
             String cliente = Console.ReadLine();
-                       
+            Console.WriteLine("Hola GitHub jajaja");
 			Console.ReadKey(true);
 		}
 	}
