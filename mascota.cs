@@ -36,48 +36,54 @@ namespace CodigoActividad3
 			carnetVacunacion = new List<vacuna>();
 			ficha = new List<historial>();
 		}
-		public int Codigo{
+		public int Codigo
+		{
 			//Getter y Setter del atributo Codigo
 			get{return codigo;}
 			set{codigo = value;}
 		}
-		
-		public string Nombre{
+		public string Nombre
+		{
 			//Getter y Setter del atributo Nombre
 			get{return nombre;}
 			set{nombre = value;}
 		}
 		
-		public string Especie{
+		public string Especie
+		{
 			//Getter y Setter del atributo Especie
 			get{return especie;}
 			set{especie = value;}
 		}
-		
-		public string Raza{
+		public string Raza
+		{
 			//Getter y Setter del atributo Raza
 			get{return raza;}
 			set{raza = value;}
 		}
-		
-		public DateTime Nacimiento{
+		public DateTime Nacimiento
+		{
 			//Getter y Setter del atributo Fecha de Nacimiento
 			get{return fechaNacimiento;}
 			set{fechaNacimiento = value;}
 		}
-		public void agregarPeso(peso peso){
+		public void agregarPeso(peso peso)
+		{
 			//Agregar un nuevo peso de la mascota
 			pesos.Add(peso);
 		}
-		public void agregarVacuna(vacuna vacuna){
+		public void agregarVacuna(vacuna vacuna)
+		{
 			//Agregar una nueva vacuna realizada a la mascota
 			carnetVacunacion.Add(vacuna);
 		}
-		public void agregarVisita(historial visita){
+		public void agregarVisita(historial visita)
+		{
 			//Agregar una nueva visita de la mascota
 			ficha.Add(visita);
 		}
-		public float pesoMedio(){
+		public float pesoMedio()
+		{
 			//Retorna el peso medio de la mascota
 			float suma = 0;
 			
@@ -86,11 +92,13 @@ namespace CodigoActividad3
 			}
 			return (suma/(pesos.Count));
 		}
-		public DateTime ultimaVacuna(){
+		public DateTime ultimaVacuna()
+		{
 			//retorna la última fecha de vacunación
 			return carnetVacunacion[carnetVacunacion.Count-1].FechaProxima;
 		}
-		public DateTime ultimaVisita(){
+		public DateTime ultimaVisita()
+		{
 			//retorna la última fecha de vacunación
 			return ficha[ficha.Count-1].FechaProximaVisita;
 		}

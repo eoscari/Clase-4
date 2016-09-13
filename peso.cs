@@ -17,14 +17,22 @@ namespace CodigoActividad3
 	{
 		private float pesoMedido;
 		private DateTime fecha;
+		//private DateTime fechaProxima;
 		
-		public peso(float peso, DateTime fecha)
+		public peso(float peso, DateTime fecha)//,DateTime fecha_p)
 		{
 			this.Peso = peso;
 			this.fecha = fecha;
+			//this.fechaProxima=fecha_p;
 			// Son dos formas de inicializar los atributos utilizando los setters o bien 
 			// Referenciando directamente el atributo.
 		}
+		
+		//public DateTime FechaProxima{
+		//Getter y Setter del atributo FechaProxima
+		//	get{return fechaProxima;}
+		//	set{fechaProxima = value;}
+		//}
 		
 		public float Peso{
 		//Getter y Setter del atributo pesoMedido

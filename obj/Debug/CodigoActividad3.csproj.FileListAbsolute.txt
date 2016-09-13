@@ -4,9 +4,17 @@ F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\bin\Debug\CodigoActividad
 F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\bin\Debug\CodigoActividad3.pdb
 F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\obj\Debug\CodigoActividad3.exe
 F:\Franco\OptativaC#\CodigoActividad3\CodigoActividad3\obj\Debug\CodigoActividad3.pdb
-C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\bin\Debug\CodigoActividad3.exe.config
-C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\bin\Debug\CodigoActividad3.exe
-C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\bin\Debug\CodigoActividad3.pdb
-C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\obj\Debug\CodigoActividad3.csprojResolveAssemblyReference.cache
-C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\obj\Debug\CodigoActividad3.exe
-C:\Users\maria_000\Downloads\Materias\C#\CodigoActividad3\obj\Debug\CodigoActividad3.pdb
+C:\Users\Alumno\Desktop\CodigoActividad3\obj\Debug\CodigoActividad3.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\CodigoActividad3\obj\Debug\CodigoActividad3.pdb
+C:\Users\Alumno\Desktop\CodigoActividad3\bin\Debug\CodigoActividad3.exe.config
+C:\Users\Alumno\Desktop\CodigoActividad3\bin\Debug\CodigoActividad3.exe
+C:\Users\Alumno\Desktop\CodigoActividad3\bin\Debug\CodigoActividad3.pdb
+C:\Users\Alumno\Desktop\CodigoActividad3\obj\Debug\CodigoActividad3.exe
+E:\Nueva carpeta\CodigoActividad3\obj\Debug\CodigoActividad3.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\CodigoActividad3\obj\Debug\CodigoActividad3.exe
+E:\Nueva carpeta\CodigoActividad3\bin\Debug\CodigoActividad3.exe.config
+E:\Nueva carpeta\CodigoActividad3\bin\Debug\CodigoActividad3.exe
+E:\Nueva carpeta\CodigoActividad3\bin\Debug\CodigoActividad3.pdb
+E:\Nueva carpeta\CodigoActividad3\obj\Debug\CodigoActividad3.pdb
+C:\Users\maria_000\Desktop\CodigoActividad3\obj\Debug\CodigoActividad3.csprojResolveAssemblyReference.cache
+C:\Users\maria_000\Desktop\CodigoActividad3\obj\Debug\CodigoActividad3.exe
